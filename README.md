@@ -1,5 +1,5 @@
 # Group7Second
-Another webpage that we designed to introduce our team.
+This is a second webpage designed to introduce our team using a different template (Group 7 of Software Engineering).
 
 Authors:
 - Aliyah AlDiqqi
