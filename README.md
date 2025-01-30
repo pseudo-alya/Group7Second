@@ -2,11 +2,11 @@
 Another webpage that we designed to introduce our team.
 
 Authors:
-  Aalyah AL-Ali
-  Alya AlDiqqi
-  Sumaiya Bakhach
+- Aliyah AlDiqqi
+- Aalyah Al-Ali
+- Sumaiya Bakhach
 
-Application: 
+Application: https://pseudo-alya.github.io/Group7Second/
 
 Credits:
-  Deepseek
+- DeepSeek
